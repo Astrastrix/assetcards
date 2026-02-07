@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Simple",
+    "description": "Easy to learn, with numerous hidden financial lessons to discover.",
+    "icon": "fa-solid fa-comments-dollar"
+  },
+  {
+    "title": "Fast",
+    "description": "Light weight, quick to set up, and exciting gameplay.",
+    "icon": "icon-lightbulb_outline"
+  },
+  {
+    "title": "Social",
+    "description": "Follow us on Instagram for the latest tips, lessons, competitions, and MEMEs!",
+    "icon": "fa-brands fa-instagram",
+    "link": "https://instagram.com/assetcards"
+  }
+]

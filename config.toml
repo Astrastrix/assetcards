@@ -1,0 +1,94 @@
+baseURL = "https://example.com"
+title = "ASSET Cards"
+author = "Orrery Designs"
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+theme = "tella"
+enableRobotsTXT = true
+# ignoreLogs = ['warning-goldmark-raw-html']
+
+# Please enable this feature if the site is available in Japanese, Chinese or Korean.
+#hasCJKLanguage = true
+
+# If you're using Google Analytics, you can enable this feature.
+#googleAnalytics = "UA-12345678-1"
+
+# Disqus Comment System
+#disqusShortname = ""
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+
+  showBlog = true
+  mainSections = ['blog']
+
+  googleFonts = true
+
+  favicon = "images/logo.png"
+
+  [params.logo]
+    main = "images/logo.png"
+    alt = "ASSET Cards Logo"
+
+    # The size parameter is the class name of tailwindcss
+    # https://tailwindcss.com/
+    size = "h-14"
+
+  [params.site]
+    name = "ASSET Cards"
+
+  [params.icon]
+    #If you want to use FontAwesome, set this parameter to true.
+    fontawesome = true
+
+  [params.homepage_meta_tags]
+    meta_description = "The world's best financial literacy card game."
+    meta_og_title = "ASSET Cards"
+    meta_og_type = "website"
+    meta_og_url = "https://assetcards.com.au"
+    meta_og_image = "images/logo.png"
+    meta_og_description = "The world's best financial literacy card game."
+    meta_instagram_card = "summary_large_image"
+    meta_instagram_site = "@assetcards"
+    meta_instagram_creator = "@assetcards"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "products"
+    name = "Products"
+    url = "/products/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "How to Play"
+    name = "How to Play"
+    url = "/howtoplay/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "Downloads"
+    name = "Downloads"
+    url = "/downloads/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "About"
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+      weight = 1
+
+  [[menu.footer]]
+    name = "Instagram"
+    url = "https://instagram.com/assetcards"
+    pre = "<i class='fa-brands fa-instagram text-2xl'></i>"
+      weight = 2

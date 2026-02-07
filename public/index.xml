@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASSET Cards</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ASSET Cards</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Project</title>
+      <link>http://localhost:1313/downloads/example/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/downloads/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example Project</title>
+      <link>http://localhost:1313/products/example/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/products/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Asset Cards was created out of a need for something that didn’t exist: a fun, portable, fast-paced card game that teaches you how to manage money, escape the paycheck-to-paycheck cycle, and build wealth — all without a game board, complicated rules, or hour-long commitment.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;about-the-game&#34;&gt;About the Game&lt;/h3&gt;&#xA;&lt;p&gt;Asset Cards is a fast-paced, pocket-sized card game that sneakily teaches you how to escape the paycheck-to-paycheck trap. Each turn, you collect your pay, draw a card, and act—buy assets, pay off loans, invest in shares, or scramble to cover an unexpected bill. The goal? Build enough passive income to outpace your expenses and achieve financial freedom before anyone else does. Simple to learn, surprisingly competitive, and secretly educational—Asset Cards turns money smarts into a game night win. One deck, four players, infinite “aha!” moments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ASSET Cards?</title>
+      <link>http://localhost:1313/blog/asset-cards/</link>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/asset-cards/</guid>
+      <description>&lt;p&gt;ASSET Cards were created out of necessity to share financial literacy lessons with friends and family.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Play</title>
+      <link>http://localhost:1313/howtoplay/</link>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/howtoplay/</guid>
+      <description>&lt;object data=&#34;/InstructionsV0.4.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;1000px&#34;&gt;&#xA;  &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;http://localhost:1313/InstructionsV0.4.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/object&gt;</description>
+    </item>
+  </channel>
+</rss>

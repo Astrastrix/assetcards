@@ -1,0 +1,9 @@
+[submodule "themes/hugo-theme-reimu"]
+	path = themes/hugo-theme-reimu
+	url = https://github.com/D-Sketon/hugo-theme-reimu
+[submodule "themes/osprey-delight"]
+	path = themes/osprey-delight
+	url = https://github.com/kdevo/osprey-delight
+[submodule "themes/tella"]
+	path = themes/tella
+	url = https://github.com/opera7133/tella.git
