@@ -55,8 +55,8 @@ After trying every finance game I could get my hands on, I realised none of them
 So I designed Asset Cards to fill that gap — a portable, fast-paced game that teaches you how to think about money like someone who’s *financially free*.
 
 ||
-| ----------- | ----------- | ----------- |
-| {{< figure src="/images/australian-made.png" width="60%" alt="AussieMade">}} | **Completely Aussie!** <br> Asset Cards is 100% Australian — designed, developed, and manufactured right here at home by Aussie-owned businesses. Game testing was done by everyday Australians too, making this game as true blue as it gets. | {{< figure src="/images/AustralianFlag.png" width="40%" alt="AussieFlag">}}|
+| ----------- | ----------- |
+| **Completely Aussie!** <br> Asset Cards is 100% Australian — designed, developed, and manufactured right here at home by Aussie-owned businesses. Game testing was done by everyday Australians too, making this game as true blue as it gets. | {{< figure src="/images/AustralianFlag.png" width="40%" alt="AussieFlag">}}|
 ||
 
 Do you have a request, or would you like to place a bulk order? Reach out to me with [this contact form](https://tr.ee/vS8KOi0HEy).
