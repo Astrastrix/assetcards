@@ -1,8 +1,7 @@
 ---
-title: "How to Play"
-description: "How to play ASSET Cards, the world's best financial literacy card game"
-date: "2026-02-07"
-aliases: ["how-to-play", "play-assetcards"]
+title: "Colour Instruction Sheet"
+description: "A full-colour set of instructions for printing and playing ASSET Cards"
+aliases: ["downloads", "downloads-assetcards", "financial-tracker"]
 layout: "simple"
 ---
 <div class="pdf-container">
