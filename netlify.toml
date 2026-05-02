@@ -1,9 +1,9 @@
 [build.environment]
 DART_SASS_VERSION = "1.97.2"
 GO_VERSION = "1.25.5"
-HUGO_VERSION = "0.154.5"
+HUGO_VERSION = "0.160.1"
 NODE_VERSION = "24.12.0"
-TZ = "Australia/Melbourne"
+TZ = "Australia/Brisbane"
 
 [build]
 publish = "public"
