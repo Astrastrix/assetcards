@@ -53,9 +53,8 @@ Asset Cards introduces players to:
 
 In Asset Cards, every paycheque is a choice: Invest, save, and spend — or survive. Outwit your expenses and grow your passive income until you’re financially free. Through clever gameplay and replayable randomness, players learn without even realising they’re learning. It’s fun first, financial education second — and that’s what makes it powerful. One deck, four players, infinite “aha!” moments.
 
-<!--Why TF isn't this iamge working-->
 <div align="center">
-<img src="deckmockup.png" alt="mockup" width="50%" />
+<img src="/deckmockup.png" alt="mockup" width="50%" />
 </div>
 
 ### Designed for
@@ -73,8 +72,7 @@ It’s easy to carry, quick to explain, and flexible enough to stop mid-game for
 
 ### About the Creator
 
-<!--Why TF isn't this iamge working-->
-<img src="daniel.jpg" alt="Daniel" style="float: left; margin-right: 10px; width: 33%;" >
+<img src="/daniel.jpg" alt="Daniel" style="float: left; margin-right: 10px; width: 33%;" >
 
 Hi, I’m Daniel Hicks — and I created Asset Cards to solve a problem I kept seeing again and again: Too many people are __smart, capable, and hard-working…__ but still feel stuck in the paycheque-to-paycheque cycle. And the worst part? Most of us were never taught how money actually works.
 
