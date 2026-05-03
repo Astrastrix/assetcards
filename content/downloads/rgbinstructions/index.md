@@ -1,6 +1,6 @@
 ---
 title: "Colour Instruction Sheet"
-description: "A full-colour set of instructions for printing and playing ASSET Cards"
+summary: "A full-colour set of instructions for printing and playing ASSET Cards."
 aliases: ["downloads", "downloads-assetcards", "financial-tracker"]
 layout: "simple"
 ---

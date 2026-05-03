@@ -1,6 +1,6 @@
 ---
 title: "Table Financial Tracker"
-description: "A tabular style financial tracker for playing ASSET Cards, this is great for players wanting to use spreadsheets"
+summary: "A tabular style financial tracker for playing ASSET Cards, this is great for players wanting to use spreadsheets."
 aliases: ["downloads", "downloads-assetcards", "financial-tracker"]
 layout: "simple"
 ---

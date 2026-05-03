@@ -4,7 +4,7 @@ date: 2026-05-01
 author: "Orrery Designs"
 ---
 {{< button href="https://buy.stripe.com/00w3cw2bH1Djbih7YE2kw00" target="_self" >}}
-Buy Now!
+Buy Now! {{< icon "cart" >}}
 {{< /button >}}
 
 ![Asset Cards](../assets/img/deck+cards.png)
@@ -19,7 +19,7 @@ Buy Now!
 
 ## ASSET Cards
 
-a fast-paced, pocket-sized card game that sneakily teaches you how to escape the paycheck-to-paycheck trap. Appropriate for ages 10+ and solo-playable or with up to four players.
+a fast-paced, pocket-sized card game that sneakily teaches you how to escape the paycheque-to-paycheque trap. Appropriate for ages 10+ and solo-playable or with up to four players.
 
 <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="bg-white p-6 shadow-lg rounded-lg" style="color: rgb(101, 163, 13)">
@@ -47,5 +47,5 @@ a fast-paced, pocket-sized card game that sneakily teaches you how to escape the
 ---
 
 {{< button href="https://buy.stripe.com/00w3cw2bH1Djbih7YE2kw00" target="_self" >}}
-Buy Now!
+Buy Now! {{< icon "cart" >}}
 {{< /button >}}

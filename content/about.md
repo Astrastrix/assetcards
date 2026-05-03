@@ -5,10 +5,10 @@ aliases: ["about-us", "about-assetcards", "contact"]
 layout: "simple"
 ---
 
->Asset Cards was created out of a need for something that didn’t exist: a fun, portable, fast-paced card game that teaches you how to manage money, escape the paycheck-to-paycheck cycle, and build wealth — all without a game board, complicated rules, or hour-long commitment.
+>Asset Cards was created out of a need for something that didn’t exist: a fun, portable, fast-paced card game that teaches you how to manage money, escape the paycheque-to-paycheque cycle, and build wealth — all without a game board, complicated rules, or hour-long commitment.
 
 ### What are ASSET Cards?
-Asset Cards is a fast-paced, pocket-sized card game that sneakily teaches you how to escape the paycheck-to-paycheck trap. Each turn, you collect your pay, draw a card, and act—buy assets, pay off loans, invest in shares, or scramble to cover an unexpected bill. The goal? Build enough passive income to outpace your expenses and achieve financial freedom before anyone else does. Simple to learn, surprisingly competitive, and secretly educational—Asset Cards turns money smarts into a game night win. One deck, four players, infinite “aha!” moments.
+Asset Cards is a fast-paced, pocket-sized card game that sneakily teaches you how to escape the paycheque-to-paycheque trap. Each turn, you collect your pay, draw a card, and act—buy assets, pay off loans, invest in shares, or scramble to cover an unexpected bill. The goal? Build enough passive income to outpace your expenses and achieve financial freedom before anyone else does. Simple to learn, surprisingly competitive, and secretly educational—Asset Cards turns money smarts into a game night win. One deck, four players, infinite “aha!” moments.
 
 Inspired by games like Cashflow, Uno Flip, and Monopoly Deal, Asset Cards takes the best elements of financial gameplay and packs them into a 20-minute, pick-up-and-play experience. Unlike games where you crush your opponents, Asset Cards is “you vs yourself” — a challenge to beat your bad habits and build the financial life you want.
 

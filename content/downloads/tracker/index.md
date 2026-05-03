@@ -1,6 +1,6 @@
 ---
 title: "Financial Tracker"
-description: "A Simple free-flow financial tracker for playing ASSET Cards, this is great for average players"
+summary: "A Simple free-flow financial tracker for playing ASSET Cards, this is great for average players."
 aliases: ["downloads", "downloads-assetcards", "financial-tracker"]
 layout: "simple"
 ---
