@@ -3,11 +3,11 @@ title: "ASSET Cards"
 date: 2026-05-01
 author: "Orrery Designs"
 ---
-{{< button href="#button" target="_self" >}}
+{{< button href="https://buy.stripe.com/00w3cw2bH1Djbih7YE2kw00" target="_self" >}}
 Buy Now!
 {{< /button >}}
 
-![alt text](../assets/img/deck+cards.png)
+![Asset Cards](../assets/img/deck+cards.png)
 
 ---
 
@@ -41,11 +41,11 @@ a fast-paced, pocket-sized card game that sneakily teaches you how to escape the
     <br><b>Social</b></div>
     Starts the money talk!
     <br>Follow us on Instagram for more!
-    </div>
+    </div></a>
 </div>
 
 ---
 
-{{< button href="#button" target="_self" >}}
+{{< button href="https://buy.stripe.com/00w3cw2bH1Djbih7YE2kw00" target="_self" >}}
 Buy Now!
 {{< /button >}}

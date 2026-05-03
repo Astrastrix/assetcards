@@ -15,19 +15,47 @@ Inspired by games like Cashflow, Uno Flip, and Monopoly Deal, Asset Cards takes 
 ### Why it works
 Asset Cards introduces players to:
 
-||
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| **Assets** | Businesses, properties, and shares | | **Expenses/Liabilities** | Food, travel, dependent, and recuring expenses |
-| **Income Types** | Active (job) vs Passive (assets) | | **Loans** | Principal, interest, taking out and paying off |
-| **Taxes** | and the economy | | **Financial Risks** | Shares, audits, upkeep costs |
-||
+<div class="grid grid-cols-1 md:grid-cols-3 md:grid-rows-2 gap-4">
+    <div class="bg-white p-6 shadow-lg rounded-lg">
+    <div style="font-size: 26px">
+    <b>Assets {{< icon "assets" >}}</b></div>
+    Businesses, properties, and shares
+    </div>
+    <div class="bg-white p-6 shadow-lg rounded-lg">
+    <div style="font-size: 26px">
+    <b>Income Types {{< icon "income" >}}</b></div>
+    Active (job) vs Passive (assets)
+    </div>
+    <div class="bg-white p-6 shadow-lg rounded-lg">
+    <div style="font-size: 26px">
+    <b>Taxes {{< icon "tax" >}}</b></div>
+    and the economy
+    </div>
+    <div class="bg-white p-6 shadow-lg rounded-lg">
+    <div style="font-size: 26px">
+    <b>Expenses/Liabilities {{< icon "expense" >}}</b></div>
+    Food, travel, dependent, and recuring expenses
+    </div>
+    <div class="bg-white p-6 shadow-lg rounded-lg">
+    <div style="font-size: 26px">
+    <b>Loans {{< icon "loans" >}}</b></div>
+    Principal, interest, taking out and paying off
+    </div>
+    <div class="bg-white p-6 shadow-lg rounded-lg">
+    <div style="font-size: 26px">
+    <b>Financial Risks {{< icon "risk" >}}</b></div>
+    Shares, audits, upkeep costs
+    </div>
+</div>
+<br>
 
 {{< typeit tag=h1 >}} 106 - Game Cards, 46 - Assets, 1 - Race to freedom! {{< /typeit >}}
 
 In Asset Cards, every paycheque is a choice: Invest, save, and spend — or survive. Outwit your expenses and grow your passive income until you’re financially free. Through clever gameplay and replayable randomness, players learn without even realising they’re learning. It’s fun first, financial education second — and that’s what makes it powerful. One deck, four players, infinite “aha!” moments.
 
+<!--Why TF isn't this iamge working-->
 <div align="center">
-<img src="/images/deckmockup.png" alt="mockup" width="50%" />
+<img src="/img/deckmockup.png" alt="mockup" width="50%" />
 </div>
 
 ### Designed for
@@ -45,7 +73,8 @@ It’s easy to carry, quick to explain, and flexible enough to stop mid-game for
 
 ### About the Creator
 
-<img src="/images/daniel.jpg" alt="Daniel" style="float: left; margin-right: 10px; width: 33%;" >
+<!--Why TF isn't this iamge working-->
+<img src="/img/daniel.jpg" alt="Daniel" style="float: left; margin-right: 10px; width: 33%;" >
 
 Hi, I’m Daniel Hicks — and I created Asset Cards to solve a problem I kept seeing again and again: Too many people are __smart, capable, and hard-working…__ but still feel stuck in the paycheque-to-paycheque cycle. And the worst part? Most of us were never taught how money actually works.
 
