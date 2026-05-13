@@ -6,9 +6,9 @@ aliases: ["how-to-play", "play-assetcards"]
 layout: "simple"
 ---
 <div class="pdf-container">
-<object data="/InstructionsV0.4.pdf#view=fitH" type="application/pdf">
-<iframe src="/InstructionsV0.4.pdf#view=fitH">
-  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/InstructionsV0.4.pdf">Download PDF</a>.</p>
+<object data="/Instructions.pdf#view=fitH" type="application/pdf">
+<iframe src="/Instructions.pdf#view=fitH">
+  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/Instructions.pdf">Download PDF</a>.</p>
 </iframe>
 </object>
 </div>
